@@ -58,5 +58,5 @@ public class Belonging {
 		return Objects.equals(id, other.id);
 	}
 	
-	
+		
 }
